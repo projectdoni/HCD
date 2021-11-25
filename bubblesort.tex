@@ -1,0 +1,9 @@
+void bubblesort(int[] zahlen) {
+   for (int i=1; i<zahlen.length; i++) {
+      for (int j=0; j<zahlen.length-i; j++) {
+         if (zahlen[j] > zahlen[j+1]) {
+            swap(zahlen[j], zahlen[j+1]);				
+         }
+      }
+   }
+}
