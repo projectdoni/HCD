@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.25)  25 NOV 2021 15:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.25)  30 NOV 2021 09:04
 entering extended mode
-**"c:/Users/U756876/Desktop/HCD und Scrum/Meta-Exposee fuer BTs und MTs.tex"
-(c:/Users/U756876/Desktop/HCD und Scrum/Meta-Exposee fuer BTs und MTs.tex
+**"c:/Repo/HCD/Meta-Exposee fuer BTs und MTs.tex"
+(c:/Repo/HCD/Meta-Exposee fuer BTs und MTs.tex
 LaTeX2e <2021-11-15>
 L3 programming layer <2021-11-22> (C:\Users\U756876\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cls
 Document Class: scrartcl 2021/11/13 v3.35 KOMA-Script document class (article)
@@ -1142,16 +1142,16 @@ Package logreq Info: Writing requests to '"Meta-Exposee fuer BTs und MTs".run.xm
  ) 
 Here is how much of TeX's memory you used:
  38437 strings out of 478681
- 773049 string characters out of 2845586
- 1627381 words of memory out of 3000000
+ 772800 string characters out of 2845586
+ 1627389 words of memory out of 3000000
  55875 multiletter control sequences out of 15000+600000
  424420 words of font info for 64 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 108i,19n,106p,10665b,2329s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 108i,19n,106p,10638b,2329s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1728.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk><C:/Users/U756876/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on "Meta-Exposee fuer BTs und MTs.pdf" (13 pages, 326191 bytes).
+Output written on "Meta-Exposee fuer BTs und MTs.pdf" (13 pages, 323826 bytes).
 PDF statistics:
- 960 PDF objects out of 1000 (max. 8388607)
+ 953 PDF objects out of 1000 (max. 8388607)
  105 named destinations out of 1000 (max. 500000)
  82 words of extra memory for PDF output out of 10000 (max. 10000000)
 
