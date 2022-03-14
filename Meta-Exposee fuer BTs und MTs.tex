@@ -35,14 +35,14 @@
 \newcommand{\MetaInstitute}{Hochschule Bremen}
 \newcommand{\MetaUnit}{Fakultät 4 -- Elektrotechnik und Informatik}
 \newcommand{\MetaTitle}{ Human Centred Design und agile Entwicklungsmethoden}
-\newcommand{\MetaSubtitle}{Ein Meta-Exposé für Bachelor- und Masterarbeiten}
+\newcommand{\MetaSubtitle}{Durchführung und Evaluation anhand der MyCompetence Applikation der Lufthansa Industry Solution TS GmbH}
 \newcommand{\MetaTask}{Exposé}
-\newcommand{\MetaAuthorName}{Thorsten}
+\newcommand{\MetaAuthorName}{Dr. Andreas Teufel}
 \newcommand{\MetaAuthorSurname}{Teschke}
 \newcommand{\MetaAuthor}{\MetaAuthorName~\MetaAuthorSurname}
 \newcommand{\MetaStudentNumber}{\textit{5034226}}
 \newcommand{\MetaStudyProgram}{Internationaler Studiengang Medieninformatik (B.Sc.)}
-\newcommand{\MetaCoAuthor}{mit Helmut Eirund}
+\newcommand{\MetaCoAuthor}{mit Prof. Dr. Martin Hering}
 %\newcommand{\MetaDate}{\germandate\today}
 \newcommand{\MetaDate}{5.\ September 2018}
 \newcommand{\MetaVersion}{1.01}
@@ -285,14 +285,21 @@
 \end{titlepage}
 
 
-
-
 %---------------------------------
 % EINLEITUNG
 %---------------------------------
 \section{Einleitung}
-
-Dieses Dokument will grundlegende Hinweise rund um die Anfertigung einer Bachelor- oder Masterarbeit zusammenfassen. Es ist dabei wie ein Exposé aufgebaut, \dH die vorliegende Struktur kann für ein Exposé zu einer wissenschaftlichen Arbeit wiederverwendet werden. 
+Diese Bachelorarbeit beschreibt eine mögliche Integration des User Centered Design (UCD)-Prozesses in agile Methode am Beispiel Scrum. 
+Im Rahmen einer Überarbeitung der DIN EN ISO 9241 wurde der Prozess 2006 von „User Centered Design“ in „Human Centered Design“ umbenannt. 
+In der Literatur wird jedoch noch häufig der Begriff „User Centered Design“ verwendet. Da beide Begriffe analog genutzt werden wurde auf die, zur Zeit noch, 
+ungebräuchliche Verwendung des offiziellen Prozessnamens verzichtet. Im ersten Teil dieser Arbeit wird der UCD-Prozess und einige der darin verwendeten Methoden vorgestellt. 
+Der zweite Teil erläutert den Scrum-Prozess. Im abschließenden dritten Teil wird versucht, eine mögliche Verbindung der beiden Prozesse 
+zu zeigen und an Hand eines Beispiels erläutert. Für die Erstellung dieser Bachelorarbeit wurde der englische Scrum-Guide benutzt.
+Die jeweiligen Begriffe für Meetings, Rollen, etc. wurden daher nicht übersetzt.
+Die LH IND TS GmbH wurde durch einen Kunden beauftrag eine Analyseapplikation neu zu entwickeln. Der Kunde vertritt über 3000 aus metallverarbeitenden Unter-
+nehmen. Auf Grund von Größe und Umfang des Projektes (geschätzt etwa 900 Personentage) wurde zusammen mit dem Auftraggeber vereinbart, das Projekt mit Scrum als Projektmanagement-Framework umzusetzen. 
+Da das Produkt, neben dem technischen Teil (Verfügbarkeit und Performance),  für die Benutzer leicht zu bedienen sein sollte, wurde bereits in der Angebotsphase die
+Integration des Bereiches UCD empfohlen. Der UCD-Bereich der Cocomore AG ist zuständig für die konzeptionelle Entwicklung von benutzerfreundlichen Bedienkonzepten. Der Kunde (Kunde) folgte dieser Empfehlung.
 
 
 %---------------------------------
@@ -300,28 +307,100 @@ Dieses Dokument will grundlegende Hinweise rund um die Anfertigung einer Bachelo
 %---------------------------------
 \section{\label{sec:problem_loesung}Problemstellung und Lösungsansatz}
  
-Der Abschluss eines Studiums erfordert die Anfertigung einer Bachelor- oder Masterarbeit. Das im Rahmen dieses \qto{Meta-Exposés} betrachtete Problem, eine Thesis vorzubereiten und schließlich erfolgreich anzufertigen, wird im Folgenden kurz vorgestellt. Anschließend werden im Sinne eines Lösungsansatzes zu dem genannten Problem Hinweise zu Inhalt, Methodik und Formalem eines Exposés \bzw einer Bachelor- oder Masterthesis gegeben.
-
+Der Kunde hatte in der Vergangenheit mit mindestens drei verschiedenen Agentu-
+ren ein Redesign seines E-Commerce-Angebots durchgeführt. Die Ergebnisse waren
+nicht das was sich der Kunde erhofft hatte. Es sollte eine Performance-Steigerung
+sowie eine Erhöhung der Besucherzahlen erreicht werden. Beide Anforderungen
+konnten in den vorangegangenen Redesigns nicht erfüllt werden.
+\\
+In den vorangegangenen Redesigns wurde auf klassische Projektmanagement-
+Frameworks zurückgegriffen. Der Kunde war von der Idee Scrum zu nutzen, und
+den Entwicklungsprozess aktiv zu begleiten und mitzugestalten zu können, leicht zu
+überzeugen. In den vorherigen Redesigns konnte der Kunde erst sehr spät Entwick-
+lungsergebnisse überprüfen und aufgetretene Probleme zögerten eine Fertigstellung
+immer hinaus.
+\\
+Ein weiterer Grund für den Einsatz von Scrum lag in dem großen Projektumfang
+(geschätzt etwa 900 Personentage). Der zuständige Projektmanager, sowie der
+Leiter des IT-Bereiches der Cocomore AG, schlugen dem Kunden auch aus diesem
+Grund Scrum als Projektmanagementtool vor. Durch die Verwendung von Scrum
+konnte der Kunde ständig den Fortschritt des Projektes überprüfen und bei Pro-
+blemen eingreifen. Der Einsatz linearer Entwicklungsmethoden hätte aus Sicht des Projektmanagers und des IT-Leiters evtl. 
+zu einer Wiederholung der Probleme aus den vorangegangenen Redesigns geführt.
 
 
 %---------------------------------
 % PROBLEMSTELLUNG
 %---------------------------------
-\subsection{Problemstellung}
+\subsection{Problemstellung des }
+\subsubsection{Was ist Human Centered Design?}
 
-Ein wesentliches Problem bei der Anfertigung einer Bachelor- oder Masterarbeit besteht in der Themenfindung und der dazugehörigen Entwicklung eines Exposés. Ein solches Exposé erfüllt dabei verschiedene Zwecke:
+Human Centered Design (UCD) ist ein Prozess um eine möglichst hohe positive User Experience (Nutzungserlebnis) zu erreichen. Die User Experience wird durch die Usability in starkem Masse beeinflusst.
+\\
+Bei der Konzeption von Produkten nach UCD wird der Benutzer in den Mittelpunkt
+des Entwicklungsprozesses gestellt. Es wird dabei versucht, den Benutzer während
+der gesamten Entwicklung eines Projektes in den Entwicklungsprozess einzubinden
+und die Benutzeroberfläche und Interaktionen so zu optimieren, dass die fertige
+Anwendung den Nutzer in seiner Aufgabe optimal unterstützt.
+\\
+Der äußere orange Rahmen symbolisiert die Anforderungen an einen benutzerori-
+entierten Entwicklungsprozess (User Centered Design). Der grüne Rahmen steht
+für das Usabiltiy Engineering, das einen Ausschnitt des User Centred Design bildet.
+Usability Engineering konzentriert sich zwar auf das Überprüfen und Optimieren
+der Usability des Produktes („während der Nutzung“), ist jedoch nicht unabhängig davon, was vor und nach der Nutzung passiert: bereits generierte Erwartungen und
+Vorerfahrungen sowie während der Nutzung neu gewonnene Erfahrungen spielen ebenfalls eine wichtige Rolle. User Centered Design bietet den Rahmen in dem die Methoden des Usability En-
+gineering angewandt werden.
+
+\subsubsection{Die vier Phasen des User Centered Design}
 
 \begin{enumerate}
-\item Es dient als \qto{Vorvertrag} und damit der Abstimmung zwischen Prüfern und Studierenden: Hier werden das von Ihnen zu bearbeitende Problemgebiet und der beabsichtigte Lösungsansatz kurz beschrieben, die konkreten Aufgaben der Arbeit festgelegt und, soweit möglich, einige Rahmenbedingungen fixiert (erste Literaturquellen, vorläufige Gliederung, Zeitplan etc.).
-
-Da das Exposé (in Abstimmung mit dem Erstprüfer) von Ihnen selbst erstellt wird, ist sichergestellt, dass beide das gleiche Verständnis von dem Vorhaben haben. Die Begutachtung fällt leichter und objektiver aus, da beide Parteien wissen, welche Ergebnisse Grundlage der Begutachtung sind (nämlich genau die, auf die Sie sich im Exposé geeinigt haben). Der Rahmen ist klar abgesteckt, die Studierenden werden vor willkürlichen Nachforderungen (\qto{Ach, machen Sie doch auch noch mal eben das ...}) geschützt. Das soll aber nicht ausschließen, dass sich die Aufgaben bei gravierenden neuen Erkenntnissen auch mal etwas verschieben können: \ggf stoßen Sie im Rahmen der Arbeit auf weitere interessante Problemstellungen, die Sie gerne bearbeiten wollen, oder aber es tun sich unerwartete Hindernisse auf, die ein Abweichen von den ursprünglichen Zielen sinnvoll erscheinen lassen. Entsprechende Verschiebungen sollten aber immer vorab mit den Prüfern abgestimmt werden.
-
-\item Die Anfertigung eines Exposés ist darüber hinaus auch ein Mittel, ein Thema auf Eignung für eine wissenschaftliche Arbeit zu prüfen. Spätestens, wenn Ihnen die Erstellung einer vorläufigen Gliederung (siehe \cref{sec:gliederung}) größere Schwierigkeiten bereitet, weil Sie nicht wissen, was Sie zu dem Thema eigentlich schreiben können, sind ernsthafte Zweifel angemeldet!
-\item Nicht zuletzt dient die Anfertigung eines Exposés auch der Einarbeitung in das Thema. Um das von Ihnen zu bearbeitende Problem verstehen sowie potentielle Lösungsansätze grundsätzlich einordnen zu können, sind umfangreichere Recherchen und \ggf\ sogar erste Experimente sinnvoll. Die geleistete Arbeit ist dabei gut investiert: Sie verlagern einige für die Thesis unerlässliche Arbeiten in die Vorbereitungsphase, minimieren \evtl vorhandene Risiken eines Themas und können \ggf sogar Teile des Exposés in der Thesis wiederverwenden.
+	\item Analyse des Nutzungskonzepts
+	\item Definition der Anforderungen
+	\item Konzeption und Entwurf
+	\item Evaluation
 \end{enumerate}
-  
+
+\subsubsection{Agile Entwicklungsmethoden}
+
+Agile Entwicklungsmethoden basieren auf der Idee, durch häufige Iterationen die
+Entwicklungszeit für Projekte zu verkürzen und ein flexibles System zur Problem-
+lösung zu benutzen. Anders als bei linearen Entwicklungsmethoden wird ein zu
+entwickelndes System nicht vollständig geplant bevor die eigentliche Umsetzung
+erfolgt. Viel mehr ist das Ziel agiler Entwicklung, dem Kunden nach jeder Iteration
+ein funktionierendes Produkt zu liefern.
+Der Kunde wird bereits sehr früh in den Entwicklungsprozess eingebunden und
+begleitet diesen bis zum fertigen Produkt.
+\\
+Seit den Anfängen der agilen Entwicklung haben sich verschiedene Methoden eta-
+bliert, einige der bekanntesten sind
+
+\begin{itemize}
+	\item Extreme Programming
+	\item Feature Driven Development 
+	\item Crystal (oder auch Methodensammlung)
+	\item Usability Diven Debelopment 
+	\item Scrum
+\end{itemize}
+
 \noindent
-Das Exposé stellt damit einen wichtigen Baustein zur Anfertigung einer Bachelor- oder Masterarbeit dar.
+\\
+Agile Entwicklungsmethoden bieten einige Vorteile, sowohl für die Entwickler, als
+auch für den Kunden:
+
+\begin{itemize}
+	\item Agile Entwicklungsmethoden lassen sich auf nahezu alle Projekte anwenden
+	\item Frühe Beteiligung des Kunden am Entwicklungsprozess
+	\item Nach jeder Iteration erhält der Kunde ein funktionsfähiges Produkt
+	\item Mehr Freiheit für den Entwickler bei der eigentlichen Umsetzung / Problemlösung
+	\item Auf Grund der Flexibilität können Änderungen am Projekt schnell und meist auch kostengünstig realisiert werden.
+\end{itemize}
+\noindent
+\\
+Die bei linearen Entwicklungsmethoden teilweise sehr aufwendigen Iterationen wer-
+den von Anfang an in den Prozess integriert und dienen der dynamischen Entwick-
+lung eines Projektes.
+\noindent
+
 
 
 %%---------------------------------
@@ -509,7 +588,8 @@ Zusammenfassung / Abstract}
 	
 	\item Grundlagen und verwandte Arbeiten
 	\begin{gliederung}
-		\item Grundlagenthema 1
+		\item User Centered Design
+			\subitem 
 		\item Grundlagenthema 2
 		\item ...
 		\item Verwandte Arbeiten

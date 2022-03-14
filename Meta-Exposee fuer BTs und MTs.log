@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.25)  30 NOV 2021 09:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.25)  14 MAR 2022 17:52
 entering extended mode
 **"c:/Repo/HCD/Meta-Exposee fuer BTs und MTs.tex"
 (c:/Repo/HCD/Meta-Exposee fuer BTs und MTs.tex
@@ -1055,56 +1055,60 @@ Package pdftex.def Info: figures//HSB_Horizontal_RGB.png  used on input line 240
 [1
 
 {C:/Users/U756876/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./figures//HSB_Horizontal_RGB.png>]
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 293.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 291.
  (C:\Users\U756876\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Package cleveref Info: loaded `ngerman' language definitions on input line 321.
+Package cleveref Info: loaded `ngerman' language definitions on input line 353.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 321.
+(Font)              <10.95> on input line 353.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 321.
+(Font)              <8> on input line 353.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 321.
+(Font)              <6> on input line 353.
  [2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 342.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 342.
-Package cleveref Info: loaded `ngerman' language definitions on input line 343.
+Package cleveref Info: loaded `ngerman' language definitions on input line 382.
  [3]
-Package cleveref Info: loaded `ngerman' language definitions on input line 369.
+Package cleveref Info: loaded `ngerman' language definitions on input line 419.
  [4]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 385.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 421.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 421.
+Package cleveref Info: loaded `ngerman' language definitions on input line 439.
+ [5]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 464.
  (C:\Users\U756876\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Package cleveref Info: loaded `ngerman' language definitions on input line 391.
- [5]
-Package cleveref Info: loaded `ngerman' language definitions on input line 411.
+Package cleveref Info: loaded `ngerman' language definitions on input line 465.
  [6]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 426.
- (bubblesort.tex)
-Package cleveref Info: loaded `ngerman' language definitions on input line 435.
+Package cleveref Info: loaded `ngerman' language definitions on input line 488.
  [7]
-Package cleveref Info: loaded `ngerman' language definitions on input line 462.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 505.
+ (bubblesort.tex)
+Package cleveref Info: loaded `ngerman' language definitions on input line 505.
  [8]
-Package cleveref Info: loaded `ngerman' language definitions on input line 520.
+Package cleveref Info: loaded `ngerman' language definitions on input line 532.
  [9]
-Package cleveref Info: loaded `ngerman' language definitions on input line 577.
+Package cleveref Info: loaded `ngerman' language definitions on input line 541.
  [10]
-Underfull \hbox (badness 10000) in paragraph at lines 584--584
+Package cleveref Info: loaded `ngerman' language definitions on input line 596.
+ [11]
+Package cleveref Info: loaded `ngerman' language definitions on input line 657.
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 664--664
   [][][][][]\T1/cmtt/m/n/9 https://www.hs-bremen.de/mam/hsb/dezernate/d3/erklärung_über_das_eigenständige_erstellen_
  []
 
 
-Overfull \hbox (2.34964pt too wide) in paragraph at lines 585--586
+Overfull \hbox (2.34964pt too wide) in paragraph at lines 665--666
 []\T1/cmr/m/n/10.95 Zusammenfassung bzw. eng-li-scher Ab-stract ent-hal-ten je-weils nur einen Ab-schnitt,
  []
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 657.
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 679--681
+Package cleveref Info: loaded `ngerman' language definitions on input line 737.
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 759--761
 
  []
 
@@ -1117,11 +1121,11 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                This warning can be suppressed with
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 707.
-[12pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+Package cleveref Info: loaded `ngerman' language definitions on input line 787.
+[14pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.707 ...bbibliography, title={Gedruckte Quellen}]
+l.787 ...bbibliography, title={Gedruckte Quellen}]
                                                   ]
 
 Package biblatex Warning: Split bibliography detected.
@@ -1132,8 +1136,8 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                This warning can be suppressed with
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
-Package cleveref Info: loaded `ngerman' language definitions on input line 711.
-[13] (Meta-Exposee fuer BTs und MTs.aux
+Package cleveref Info: loaded `ngerman' language definitions on input line 791.
+[15] (Meta-Exposee fuer BTs und MTs.aux
 Package cleveref Info: loaded `ngerman' language definitions on input line 28.
 )
 Package logreq Info: Writing requests to '"Meta-Exposee fuer BTs und MTs".run.xml'.
@@ -1141,17 +1145,17 @@ Package logreq Info: Writing requests to '"Meta-Exposee fuer BTs und MTs".run.xm
 
  ) 
 Here is how much of TeX's memory you used:
- 38437 strings out of 478681
- 772800 string characters out of 2845586
- 1627389 words of memory out of 3000000
- 55875 multiletter control sequences out of 15000+600000
+ 38457 strings out of 478681
+ 773349 string characters out of 2845586
+ 1627522 words of memory out of 3000000
+ 55889 multiletter control sequences out of 15000+600000
  424420 words of font info for 64 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 108i,19n,106p,10638b,2329s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1728.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk><C:/Users/U756876/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on "Meta-Exposee fuer BTs und MTs.pdf" (13 pages, 323826 bytes).
+ 108i,20n,106p,10638b,2329s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1095.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1728.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\U756876\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk><C:/Users/U756876/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+Output written on "Meta-Exposee fuer BTs und MTs.pdf" (15 pages, 339264 bytes).
 PDF statistics:
- 953 PDF objects out of 1000 (max. 8388607)
- 105 named destinations out of 1000 (max. 500000)
- 82 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1003 PDF objects out of 1200 (max. 8388607)
+ 111 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
